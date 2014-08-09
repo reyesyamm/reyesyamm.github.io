@@ -14,10 +14,10 @@
             </div>
             <div class="large-9 columns">
                 <ul class="button-group right">
-                    <li><a href="#" class="button">Link 1</a></li>
-                    <li><a href="#" class="button">Link 2</a></li>
-                    <li><a href="#" class="button">Link 3</a></li>
-                    <li><a href="#" class="button">Link 4</a></li>
+                    <li><a href="#" class="button">Home</a></li>
+                    <li><a href="#" class="button">About</a></li>
+                    <li><a href="#" class="button">Wiki</a></li>
+                    <li><a href="#" class="button">Blog</a></li>
                 </ul>
             </div>
         </div>
