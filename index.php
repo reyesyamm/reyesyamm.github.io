@@ -7,23 +7,10 @@
         <script src="vendor/foundation/js/vendor/modernizr.js" type="text/javascript"></script>
     </head>
     <body>
-
-        <div class="row">
-            <div class="large-3 columns">
-                <h1><img src="http://placehold.it/400x100&text=Logo"></h1>
-            </div>
-            <div class="large-9 columns">
-                <ul class="button-group right">
-                    <li><a href="#" class="button">Home</a></li>
-                    <li><a href="#" class="button">About</a></li>
-                    <li><a href="#" class="button">Wiki</a></li>
-                    <li><a href="#" class="button">Blog</a></li>
-                </ul>
-            </div>
-        </div>
+        <?php include('includes/header.php');?>
         <div class="row">
             <div class="large-12 columns">
-                <img src="http://placehold.it/1000x400&text=[img]">
+                <img src="images/html5.jpg">
 
                 <hr>
             </div>
