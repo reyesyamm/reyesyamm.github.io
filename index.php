@@ -3,20 +3,15 @@
         <title>
             Welcome to my website of test
         </title>
-        <link rel="stylesheet" href="vendor/foundation/css/foundation.css" />
-        <script src="vendor/foundation/js/vendor/modernizr.js" type="text/javascript"></script>
+        <?php include('includes/css_and_js.php'); ?>
     </head>
     <body>
-        <?php include('includes/header.php');?>
+        <?php include('includes/header.php'); ?>
         <div class="row">
             <div class="large-12 columns">
-                <img src="images/html5.jpg">
-
-                <hr>
+                    <?php include('includes/main_banner.php'); ?>
             </div>
         </div>
-
-
         <div class="row">
             <div class="large-4 columns">
                 <img src="http://placehold.it/400x300&text=[img]">
