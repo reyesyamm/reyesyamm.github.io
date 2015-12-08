@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>
-            Welcome to my website of test
+            Welcome to my website of test. It is testing with Git.
         </title>
         <?php include('includes/css_and_js.php'); ?>
     </head>
